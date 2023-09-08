@@ -1,0 +1,19 @@
+.active {
+  color: rgb(40, 169, 133);
+}
+#image {
+  filter: drop-shadow(5px 5px 10px rgb(40, 169, 133));
+}
+
+#foot p:hover {
+  color: rgb(33, 194, 143);
+  cursor: pointer;
+}
+
+#about {
+  filter: drop-shadow(5px 5px 10px rgb(40, 169, 133));
+  height: 100%;
+
+  position: fixed;
+  top: 0px;
+}
