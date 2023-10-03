@@ -1,5 +1,6 @@
 
 # Shop Me : Ecommerce Application
+Visit : https://pk-shopme.netlify.app/
 
 Developed a static e-commerce web app using React.js , Redux Toolkit , and Tailwind CSS , demonstrating front-end and state management expertise while utilizing the Fetch API for product
 retrieval.
